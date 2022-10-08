@@ -1,12 +1,12 @@
 ## **Hey everyone**
 
-Welcome to my Github profile. I'm a passionate, self-taught **WEB DEVELOPER**, currently residing at the Philippines. As of now, I'm focusing on my Udemy courses to learn web technologies of the Front-end while I work as a freelance **DIGITAL ARTIST** for a living.
+Welcome to my Github profile. I'm a passionate, self-taught **FRONT-END DEVELOPER**, currently residing at the Philippines. As of now, I'm focusing on my Udemy courses to learn web technologies while I work as a freelance **DIGITAL ARTIST** for a living.
 
 The long road to **SOFTWARE ENGINEERING** stack.
 
 ## Some Web Technologies
 
-<img width="22px" src="html5-plain.svg"> <img width="22px" src="css3-plain.svg"> <img width="22px" src="javascript-original.svg"> <img width="22px" src="bootstrap-plain.svg"> <img width="22px" src="tailwindcss-plain.svg"> <img width="22px" src="sass-original.svg"> <img width="22px" src="github-original.svg"> <img width="22px" src="npm-original-wordmark.svg">
+<img width="22px" src="html5-plain.svg"> <img width="22px" src="css3-plain.svg"> <img width="22px" src="javascript-original.svg"> <img width="22px" src="sass-original.svg"> <img width="22px" src="github-original.svg"> <img width="22px" src="npm-original-wordmark.svg">
 
 ## Some Tools
 
