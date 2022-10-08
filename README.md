@@ -10,6 +10,6 @@ The long road to **SOFTWARE ENGINEERING** stack.
 
 ## Some Tools
 
-<img width="22px" src="photoshop-plain.svg"> <img width="22px" src="illustrator-plain.svg"> <img width="22px" src="xd-plain.svg"> <img width="22px" src="figma-original.svg"> <img width="22px" src="vscode-original.svg"> <img width="22px" src="filezilla-plain.svg"> <img width="22px" src="git-original.svg">
+<img width="22px" src="photoshop-plain.svg"> <img width="22px" src="illustrator-plain.svg"> <img width="22px" src="xd-plain.svg"> <img width="22px" src="vscode-original.svg"> <img width="22px" src="filezilla-plain.svg"> <img width="22px" src="git-original.svg">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyestrellaworks&langs_count=8)](https://github.com/kennyestrellaworks/github-readme-stats)
