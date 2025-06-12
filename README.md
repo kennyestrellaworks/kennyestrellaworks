@@ -6,7 +6,7 @@ The long road to **SOFTWARE ENGINEERING** stack.
 
 ## Some Web Technologies
 
-<img width="22px" src="html5-plain.svg"> <img width="22px" src="css3-plain.svg"> <img width="22px" src="javascript-original.svg"> <img width="22px" src="sass-original.svg"> <img width="22px" src="github-original.svg"> <img width="22px" src="npm-original-wordmark.svg">
+<img width="22px" src="react-original.svg"> <img width="22px" src="html5-plain.svg"> <img width="22px" src="css3-plain.svg"> <img width="22px" src="javascript-original.svg"> <img width="22px" src="sass-original.svg"> <img width="22px" src="github-original.svg"> <img width="22px" src="npm-original-wordmark.svg">
 
 ## Some Tools
 
